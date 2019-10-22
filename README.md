@@ -1,6 +1,6 @@
 # SPOJ-Solutions
-## Username: @darksaiyan_10
-### Profile Link: <a href="https://www.spoj.com/users/darksaiyan_10/"> Here </a>
+## Username: <a href="https://www.spoj.com/users/darksaiyan_10/"> @darksaiyan_10</a>
+ 
 
 Here you can find all the solution to the Spoj Problems which i have solved.
 
